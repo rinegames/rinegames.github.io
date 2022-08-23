@@ -1,0 +1,1 @@
+window.location.href='mailto:rinegames.github.io@gmail.com';
